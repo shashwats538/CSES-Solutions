@@ -43,9 +43,9 @@ using namespace std;
 
 void solve()
 {
-    int n,count = 0;
+    int n;
     cin>>n;
-    ll x,big=0;
+    ll x,big=0,count = 0;
     for(int i=0;i<n;i++)
     {
         cin>>x;
